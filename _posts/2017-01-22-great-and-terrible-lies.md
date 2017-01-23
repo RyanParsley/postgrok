@@ -1,5 +1,5 @@
 ---
-title: A Great and Terrible Lies
+title: Great and Terrible Lies
 ---
 
 Our new president lies. Like... a lot. Despite clearly logging more than 10,000 
@@ -18,7 +18,7 @@ manipulative smooth talking to lubricate the machine. He's spewing a fever dream
 and his base is eating it up. Facts presented in opposition to his fantasies are 
 dismissed as "fake".
 
-## Foundation of lies
+## Lies, Damned Lies and Statistics
 
 In his inauguration speech, Trump described a fictitious dystopian version of 
 America. This *alternative america* he described was plagued by joblessness. 
